@@ -25,5 +25,7 @@ Install Debugger for Chrome extension in Chrome
 
 # Notes
 1. npx create-react-app was used to create the initial template
+2. backend data from https://jsonplaceholder.typicode.com/
+3. Uploading to gu=ithub from the command line https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/
 
 
