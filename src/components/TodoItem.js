@@ -21,7 +21,7 @@ export class TodoItem extends Component {
           onChange={this.props.toggleComplete.bind(this, id)}
         />
         {title}
-        <button onClick={this.props.delTodo.bind(this,id)} style={btnStyle}>X</button>
+        <button onClick={this.props.deleteTodo.bind(this,id)} style={btnStyle}>X</button>
       </div>
     );
   }
